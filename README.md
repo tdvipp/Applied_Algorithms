@@ -5,6 +5,13 @@ Repository này tổng hợp các bài cài đặt/ôn tập thuật toán, đư
 Mỗi mục bên dưới liệt kê **các file tương ứng** để bạn dễ tìm.
 
 ---
+Nếu bạn thấy hay hãy star repo này!!!
+
+Buy me a coffee
+
+<img width="128" height="128" alt="4F492B0E-4980-495B-869B-DD46493BAE23_1_201_a" src="https://github.com/user-attachments/assets/1a3b1fa7-5d26-45a6-bbc5-a3237f440856" />
+
+---
 
 ## 1) Graph algorithms / Lý thuyết đồ thị
 ### 1.1. MST (Minimum Spanning Tree)
