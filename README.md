@@ -7,9 +7,13 @@ Mỗi mục bên dưới liệt kê **các file tương ứng** để bạn dễ
 ---
 Nếu bạn thấy hay hãy star repo này!!!
 
-Buy me a coffee
+Buy me a coffee :)
 
-<img width="128" height="128" alt="4F492B0E-4980-495B-869B-DD46493BAE23_1_201_a" src="https://github.com/user-attachments/assets/1a3b1fa7-5d26-45a6-bbc5-a3237f440856" />
+<img width="300" height="300" alt="257F58BE-72BE-4973-B44A-24525DA08D61_1_201_a" src="https://github.com/user-attachments/assets/e7ea2f9b-6f55-4a30-af24-19eb53bc0ab9" />
+
+
+
+
 
 ---
 
